@@ -11,8 +11,9 @@ tsv file has to be devided into two files.
 contents of a pair of tsv files.
 
 # Usage
-![picture](https://github.com/boguss1225/tsv_to_xml/blob/master/ScreenShots/capture1.PNG)
 \
+![picture](https://github.com/boguss1225/tsv_to_xml/blob/master/ScreenShots/capture1.PNG)
+
 
 * 3 files (.jpg & .bboxes.labels.tsv & .bboxes.tsv) has to be in the same folder before convert.
 * image file format has to be "jpg"
